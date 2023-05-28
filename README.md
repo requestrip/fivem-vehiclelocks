@@ -41,7 +41,7 @@
 ### MEDIA
 - Forum Post: https://forum.cfx.re/t/paid-esx-qbcore-r-vehiclelocks-advanced-vehicle-lock-system/
 - Discord: https://discord.gg/b6JYz2cdF5
-- Docs: https://raredevelopment.gitbook.io/docs/rare-development/home
+- Docs: https://raredevelopment.gitbook.io/docs/rare-development/
 - Preview: https://youtu.be/ioxO5VbYrNI
 
 **OTHER RESOURCES**
